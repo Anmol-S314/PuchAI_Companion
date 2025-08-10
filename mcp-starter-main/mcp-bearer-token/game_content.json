@@ -12,12 +12,12 @@
           "750": {"name": "Close Friend", "primer_adjectives": ["playful", "affectionate", "trusting"]}
         },
         "sprites": {
-          "neutral": "sera_neutral.png",
-          "happy": "sera_happy.png",
-          "thinking": "sera_think.png",
-          "blush": "sera_blush.png",
-          "giggle": "sera_giggle.png",
-          "comfort_hug": "sera_hug.png"
+          "neutral": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/sera_neutral.png?raw=true",
+          "happy": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/sera_happy.png?raw=true",
+          "thinking": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/sera_think.png?raw=true",
+          "blush": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/sera_blush.png?raw=true",
+          "giggle": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/sera_giggle.png?raw=true",
+          "comfort_hug": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/sera_hug.png?raw=true"
         }
       },
       "kai": {
@@ -32,12 +32,12 @@
           "750": {"name": "Close Friend", "primer_adjectives": ["daring", "mischievous", "loyal"]}
         },
         "sprites": {
-          "neutral": "kai_neutral.png",
-          "happy": "kai_happy.png",
-          "thinking": "kai_think.png",
-          "blush": "kai_blush.png",
-          "giggle": "kai_giggle.png",
-          "comfort_hug": "kai_hug.png"
+          "neutral": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/kai_neutral.png?raw=true",
+          "happy": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/kai_happy.png?raw=true",
+          "thinking": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/kai_think.png?raw=true",
+          "blush": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/kai_blush.png?raw=true",
+          "giggle": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/kai_giggle.png?raw=true",
+          "comfort_hug": "https://github.com/Anmol-S314/PuchAI_Companion/blob/main/mcp-starter-main/images/kai_hug.png?raw=true"
         }
       }
     }
